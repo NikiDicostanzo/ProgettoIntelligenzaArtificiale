@@ -1,4 +1,4 @@
-## Prerequisiti
+##Prerequisiti
 
 Per poter eseguire correttamente il codice è necessario:
 
@@ -8,12 +8,12 @@ Per poter eseguire correttamente il codice è necessario:
 
 * train set (kddcup.testdata.unlabeled_10_percent.gz) e test set (corrected.gz): (http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
 
-## Esecuzione 
+##Esecuzione 
 
 Il file su cui eseguire il run è "main.py", che restituisce i valori della PCC e la matrice di confusione prima o dopo la classificazione 
 a seconda del parametro scelto, rispettivamente 'before' e 'after'.
 
-## Riferimenti
+##Riferimenti
 
 Nella realizzazione del progetto sono stati consultati:
 
